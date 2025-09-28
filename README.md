@@ -36,7 +36,7 @@ From **web development** to **AI/ML experiments**, I’m always exploring new to
 ---
 
 ## 📫 Connect With Me  
-- 💼 [LinkedIn](https:www.linkedin.com/in/thirukumaran-p-s-159437330)
+- 💼 [LinkedIn](https://www.linkedin.com/in/thirukumaran-p-s-159437330/)
 - 📧 thirukumaranps7654@gmail.com
 ---
 ✨ _“Code, Learn, Share, Repeat.”_  
