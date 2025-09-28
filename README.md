@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Thirukumaran  
 
-<!--
-**Thirukumaran-007/Thirukumaran-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **IT Enthusiast | Problem Solver | Lifelong Learner**  
 
-Here are some ideas to get you started:
+I belong to the **IT Department** and love working on projects that solve real-world problems using technology.  
+From **web development** to **AI/ML experiments**, I’m always exploring new tools and building scalable solutions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me  
+- 🎓 IT Department student passionate about tech innovation  
+- 🔧 Love working with Python, Web Technologies, and AI tools  
+- 🌱 Currently learning: Cloud Computing & Machine Learning  
+- 🛠️ Exploring open-source contributions and hackathons  
+
+---
+
+## 🧑‍💻 Skills & Tools  
+- **Languages:** Python, Java, C, JavaScript  
+- **Web:** HTML, CSS, React, Node.js  
+- **AI/ML:** TensorFlow, PyTorch, YOLO, OpenCV  
+- **Database:** MySQL, MongoDB  
+- **Others:** Git, GitHub, Linux, Docker  
+
+---
+
+## 📌 Projects  
+- 🚦 **Smart Traffic Management using AI** – YOLO + OpenCV for real-time vehicle detection  
+- 🤖 **Chatbot for Students** – Helps students find the best colleges after school  
+- 📊 **Wine Quality Prediction** – ML model to predict wine quality from dataset  
+
+---
+
+## 📈 GitHub Stats  
+![Thirukumaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com)  
+- 📧 thirukumaran@example.com  
+
+---
+✨ _“Code, Learn, Share, Repeat.”_  
