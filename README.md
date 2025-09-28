@@ -30,17 +30,13 @@ From **web development** to **AI/ML experiments**, I’m always exploring new to
 - 📊 **Wine Quality Prediction** – ML model to predict wine quality from dataset  
 
 ---
+  
 
-## 📈 GitHub Stats  
-![Thirukumaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
 
 ---
 
 ## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com)  
-- 📧 thirukumaran@example.com  
-
+- 💼 [LinkedIn](https:www.linkedin.com/in/thirukumaran-p-s-159437330)
+- 📧 thirukumaranps7654@gmail.com
 ---
 ✨ _“Code, Learn, Share, Repeat.”_  
